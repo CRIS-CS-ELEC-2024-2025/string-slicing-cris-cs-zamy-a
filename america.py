@@ -11,7 +11,7 @@ country = "the united states of america"
 print(country.lower())
 
 # 2. print country in *title case*
-country = (country.title())
+print(country.title())
 
 # 3. print country in *upper case*
 print(country.upper())
